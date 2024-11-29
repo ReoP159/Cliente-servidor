@@ -1,4 +1,4 @@
-import socket
+﻿import socket
 import threading
 
 message_list = []
@@ -50,3 +50,5 @@ def server(host='127.0.0.1', port=65432):
 
 if __name__ == '__main__':
     server()
+
+#Más código
